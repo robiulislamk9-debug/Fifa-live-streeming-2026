@@ -1,0 +1,943 @@
+[
+  {
+    "id": "CricketGold.au",
+    "name": "Cricket Gold",
+    "country": "AU",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1569,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "SkyRacing1.au",
+    "name": "Sky Racing 1",
+    "country": "AU",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Hf0EiaW.png",
+    "streamUrl": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2357,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "SkyRacing2.au",
+    "name": "Sky Racing 2",
+    "country": "AU",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/TxQvFnQ.png",
+    "streamUrl": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2408,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "GamePlus.ca",
+    "name": "Game+",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Lj69WbR.png",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 824,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "HardKnocks.ca",
+    "name": "Hard Knocks",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/nt9B6jx.png",
+    "streamUrl": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+    "isWorldCupBroadcaster": false,
+    "latency": 2155,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+  },
+  {
+    "id": "TSNTheOcho.ca",
+    "name": "TSN The Ocho",
+    "country": "CA",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+    "streamUrl": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 2905,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "FIFAPlusWomen.uk",
+    "name": "FIFA+ Women",
+    "country": "UK",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/xy9ZxVO.png",
+    "streamUrl": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 4844,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "country": "UK",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
+    "streamUrl": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 3962,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "30AGolfKingdom.us",
+    "name": "30A Golf Kingdom",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Lv53nh4.png",
+    "streamUrl": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 569,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "ACCDigitalNetwork.us",
+    "name": "ACC Digital Network",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/V6Kaqha.png",
+    "streamUrl": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 887,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "beINSPORTSXTRA.us",
+    "name": "beIN SPORTS XTRA",
+    "country": "US",
+    "categories": [
+      "sports",
+      "fifa-26"
+    ],
+    "logo": "https://i.imgur.com/uJosqHh.png",
+    "streamUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 3559,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "BEKSports.us",
+    "name": "BEK Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/1l3t5jd.png",
+    "streamUrl": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2577,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "DraftKingsNetwork.us",
+    "name": "DraftKings Network",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/SFYhgrt.png",
+    "streamUrl": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 3183,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "ESPN8TheOcho.us",
+    "name": "ESPN8: The Ocho",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
+    "streamUrl": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 931,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "FITE247.us",
+    "name": "FITE 24/7",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/ESV6qgH.png",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 4550,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "FloHockey.us",
+    "name": "FloHockey",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png",
+    "streamUrl": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 5871,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "FTFSports.us",
+    "name": "FTF Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/yvUjOI3.png",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W",
+    "isWorldCupBroadcaster": false,
+    "latency": 2790,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+  },
+  {
+    "id": "FuboSportsNetwork.us",
+    "name": "Fubo Sports Network",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/qFNRJLb.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 4336,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "GloryKickboxing.us",
+    "name": "Glory Kickboxing",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/tS7Ub7i.png",
+    "streamUrl": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2938,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "MMATV.us",
+    "name": "MMA TV",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Qxco1eW.png",
+    "streamUrl": "http://31.148.48.15/M1_Global/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 428,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "NBCSportsNOW.us",
+    "name": "NBC Sports NOW",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/EzNf2Yx.png",
+    "streamUrl": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+    "isWorldCupBroadcaster": true,
+    "latency": 3484,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "NHRATV.us",
+    "name": "NHRA TV",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/jZgcm4k.png",
+    "streamUrl": "https://d265y4sk8257lt.cloudfront.net/nh.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2549,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Overtime.us",
+    "name": "Overtime",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/9S9k4IK.png",
+    "streamUrl": "https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2027,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Pac12Insider.us",
+    "name": "Pac-12 Insider",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/736QREy.png",
+    "streamUrl": "https://pac12-firetv.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2621,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "RacerNetwork.us",
+    "name": "Racer Network",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
+    "streamUrl": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1582,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "RacerSelect.us",
+    "name": "Racer Select",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/CurtYvn.png",
+    "streamUrl": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 3143,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "SportsTVPlus.us",
+    "name": "Sports TV Plus",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/EyCDhgN.png",
+    "streamUrl": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC",
+    "isWorldCupBroadcaster": false,
+    "latency": 3882,
+    "status": 302,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+  },
+  {
+    "id": "SportsGrid.us",
+    "name": "SportsGrid",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/ulGKX30.png",
+    "streamUrl": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2752,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Stadium.us",
+    "name": "Stadium",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
+    "streamUrl": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 4370,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Strongman.us",
+    "name": "Strongman",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/bVQBF6R.png",
+    "streamUrl": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1984,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSBowlingNetwork.us",
+    "name": "TVS Bowling Network",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 5020,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSBoxing.us",
+    "name": "TVS Boxing",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/30ZoF75.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 5016,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSClassicSports.us",
+    "name": "TVS Classic Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/auR0Mi6.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 5008,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSSports.us",
+    "name": "TVS Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Lwwq62E.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 5007,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSSportsBureau.us",
+    "name": "TVS Sports Bureau",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/Lwwq62E.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 4987,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSTurbo.us",
+    "name": "TVS Turbo",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/7zYIbU1.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 4985,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TVSWomenSports.us",
+    "name": "TVS Women Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/8hC4PfF.png",
+    "streamUrl": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 4985,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Unbeaten.us",
+    "name": "Unbeaten",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://i.imgur.com/LmkNt3v.png",
+    "streamUrl": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 3993,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "WillowSports.us",
+    "name": "Willow Sports",
+    "country": "US",
+    "categories": [
+      "sports"
+    ],
+    "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
+    "streamUrl": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 806,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News (UK)",
+    "country": "UK",
+    "categories": [
+      "news"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022.svg/300px-BBC_News_2022.svg.png",
+    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 855,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live (US)",
+    "country": "US",
+    "categories": [
+      "news"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ABC_News_Live_logo.svg/300px-ABC_News_Live_logo.svg.png",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1030,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "NDTV24x7.in",
+    "name": "NDTV 24x7 (India)",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
+    "streamUrl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 453,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "WION.in",
+    "name": "WION (India)",
+    "country": "IN",
+    "categories": [
+      "news"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/WION_logo.png/300px-WION_logo.png",
+    "streamUrl": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2261,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "AlJazeeraEnglish.qa",
+    "name": "Al Jazeera English (QA)",
+    "country": "QA",
+    "categories": [
+      "news"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/300px-Aljazeera_eng.svg.png",
+    "streamUrl": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 397,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "SomoyNewsTV.bd",
+    "name": "Somoy News TV (BD)",
+    "country": "BD",
+    "categories": [
+      "news",
+      "bangla"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Somoy_TV_logo.svg/300px-Somoy_TV_logo.svg.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 990,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "JamunaTV.bd",
+    "name": "Jamuna TV (BD)",
+    "country": "BD",
+    "categories": [
+      "news",
+      "bangla"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jamuna_TV_logo.svg/300px-Jamuna_TV_logo.svg.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 783,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "IndependentTV.bd",
+    "name": "Independent TV (BD)",
+    "country": "BD",
+    "categories": [
+      "news",
+      "bangla"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Independent_Television_logo.png/300px-Independent_Television_logo.png",
+    "streamUrl": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 2810,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "EkattorTV.bd",
+    "name": "Ekattor TV (BD)",
+    "country": "BD",
+    "categories": [
+      "news",
+      "bangla"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ekattor_TV_logo.png/300px-Ekattor_TV_logo.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 983,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "ATNBangla.bd",
+    "name": "ATN Bangla",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/K1HmMRz.png",
+    "streamUrl": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1200,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "BanglaVision.bd",
+    "name": "Bangla Vision",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/nCWgp38.png",
+    "streamUrl": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1400,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "BTVWorld.bd",
+    "name": "BTV World",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/sSnrg7o.png",
+    "streamUrl": "https://tvsen6.aynaott.com/btv_world/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1600,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "Channel24.bd",
+    "name": "Channel 24",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/4JLkaF7.png",
+    "streamUrl": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1100,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "ChannelI.bd",
+    "name": "Channel I",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/X0JJlOX.png",
+    "streamUrl": "https://tvsen6.aynaott.com/channeli/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1300,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "DeeptoTV.bd",
+    "name": "Deepto TV",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/F62GUqS.png",
+    "streamUrl": "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1500,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "MaasrangaTV.bd",
+    "name": "Maasranga TV",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/uVZJMed.png",
+    "streamUrl": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1700,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "NTV.bd",
+    "name": "NTV",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/l75bDTx.png",
+    "streamUrl": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1800,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "RTV.bd",
+    "name": "RTV",
+    "country": "BD",
+    "categories": [
+      "bangla"
+    ],
+    "logo": "https://i.imgur.com/yu8ugqt.png",
+    "streamUrl": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+    "isWorldCupBroadcaster": false,
+    "latency": 1900,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "country": "DE",
+    "categories": [
+      "sports",
+      "fifa-26"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_Logo.svg/320px-Das_Erste_Logo.svg.png",
+    "streamUrl": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 1010,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TRT1.tr",
+    "name": "TRT 1",
+    "country": "TR",
+    "categories": [
+      "sports",
+      "fifa-26"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TRT_1_logo.svg/320px-TRT_1_logo.svg.png",
+    "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 1109,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "CazeTV.br",
+    "name": "CazéTV",
+    "country": "BR",
+    "categories": [
+      "sports",
+      "fifa-26"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_Caz%C3%A9TV.png/320px-Logo_Caz%C3%A9TV.png",
+    "streamUrl": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 1500,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "CTV2Alberta.ca",
+    "name": "CTV 2 Alberta",
+    "country": "CA",
+    "categories": [
+      "sports",
+      "fifa-26"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CTV_2_logo_2018.svg/320px-CTV_2_logo_2018.svg.png",
+    "streamUrl": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 1500,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "id": "TSports.bd",
+    "name": "T Sports",
+    "country": "BD",
+    "categories": [
+      "sports",
+      "fifa-26",
+      "bangla"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/T_Sports_logo.svg/320px-T_Sports_logo.svg.png",
+    "streamUrl": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
+    "isWorldCupBroadcaster": true,
+    "latency": 1962,
+    "status": 200,
+    "http_referrer": null,
+    "user_agent": null
+  }
+]

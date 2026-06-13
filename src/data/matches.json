@@ -1,0 +1,98 @@
+[
+  {
+    "id": "match-live-1",
+    "homeTeam": "Argentina",
+    "homeFlag": "🇦🇷",
+    "awayTeam": "France",
+    "awayFlag": "🇫🇷",
+    "status": "live",
+    "score": "2 - 2",
+    "minute": "78'",
+    "time": "Live Now",
+    "group": "Final",
+    "broadcasters": ["CazeTV.br", "DasErste.de", "TyCSports.ar", "FIFAPlus.uk"]
+  },
+  {
+    "id": "match-live-2",
+    "homeTeam": "Brazil",
+    "homeFlag": "🇧🇷",
+    "awayTeam": "Germany",
+    "awayFlag": "🇩🇪",
+    "status": "live",
+    "score": "1 - 0",
+    "minute": "42'",
+    "time": "Live Now",
+    "group": "Semifinal",
+    "broadcasters": ["CazeTV.br", "DasErste.de", "CCTV1.cn", "TRT1.tr"]
+  },
+  {
+    "id": "match-up-1",
+    "homeTeam": "USA",
+    "homeFlag": "🇺🇸",
+    "awayTeam": "England",
+    "awayFlag": "🇬🇧",
+    "status": "upcoming",
+    "score": null,
+    "time": "Today, 20:00",
+    "group": "Group B",
+    "broadcasters": ["DasErste.de", "La1.es", "FIFAPlus.uk"]
+  },
+  {
+    "id": "match-up-2",
+    "homeTeam": "Spain",
+    "homeFlag": "🇪🇸",
+    "awayTeam": "Japan",
+    "awayFlag": "🇯🇵",
+    "status": "upcoming",
+    "score": null,
+    "time": "Today, 22:30",
+    "group": "Group E",
+    "broadcasters": ["La1.es", "CCTV1.cn", "TRT1.tr"]
+  },
+  {
+    "id": "match-up-3",
+    "homeTeam": "Portugal",
+    "homeFlag": "🇵🇹",
+    "awayTeam": "Morocco",
+    "awayFlag": "🇲🇦",
+    "status": "upcoming",
+    "time": "Tomorrow, 17:00",
+    "group": "Quarterfinal",
+    "broadcasters": ["DasErste.de", "TyCSports.ar", "FIFAPlus.uk"]
+  },
+  {
+    "id": "match-up-4",
+    "homeTeam": "Netherlands",
+    "homeFlag": "🇳🇱",
+    "awayTeam": "Senegal",
+    "awayFlag": "🇸🇳",
+    "status": "upcoming",
+    "time": "Tomorrow, 20:00",
+    "group": "Group A",
+    "broadcasters": ["DasErste.de", "FIFAPlus.uk", "TSports.bd"]
+  },
+  {
+    "id": "match-fin-1",
+    "homeTeam": "Croatia",
+    "homeFlag": "🇭🇷",
+    "awayTeam": "Belgium",
+    "awayFlag": "🇧🇪",
+    "status": "finished",
+    "score": "2 - 1",
+    "time": "Yesterday",
+    "group": "Group F",
+    "broadcasters": ["DasErste.de", "La1.es"]
+  },
+  {
+    "id": "match-fin-2",
+    "homeTeam": "Uruguay",
+    "homeFlag": "🇺🇾",
+    "awayTeam": "Ghana",
+    "awayFlag": "🇬🇭",
+    "status": "finished",
+    "score": "0 - 2",
+    "time": "Yesterday",
+    "group": "Group H",
+    "broadcasters": ["TyCSports.ar", "FIFAPlus.uk"]
+  }
+]
