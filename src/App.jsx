@@ -326,7 +326,7 @@ function App() {
           >
             <Trophy className="h-6 w-6 text-sport-accent filter drop-shadow-[0_0_8px_rgba(0,255,136,0.3)] group-hover:scale-110 transition-transform duration-300" />
             <h1 className="text-lg md:text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-white to-sport-accent bg-clip-text text-transparent flex items-center gap-1.5">
-              NEXUS LIVE TV 
+              OSOMOI LIVE TV 
               <span className="text-[9px] bg-gradient-to-r from-yellow-400 to-amber-500 text-black font-black px-1.5 py-0.5 rounded tracking-wider shadow-md">
                 LIVE
               </span>
